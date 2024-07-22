@@ -1,3 +1,4 @@
+
 'use strict';
 import '../css/main.css';
 const $ = require('jquery');
